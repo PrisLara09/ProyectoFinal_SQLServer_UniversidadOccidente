@@ -17,10 +17,10 @@ La base de datos permite administrar información relacionada con:
 ## Contenido del repositorio
  
 - Script SQL completo
-- Documento del proyecto
+- Script en WORD completo
+- Documento del proyecto (Consultas SQL - Vistas (Views), entre otros)
 - Modelo Entidad-Relación (MER)
-- Consultas SQL
-- Vistas (Views)
+
  
 ## Tecnologías utilizadas
  
