@@ -1,2 +1,32 @@
-# ProyectoFinal_SQLServer_UniversidadOccidente
-Este proyecto consiste en el diseño e implementación de una base de datos para la gestión del proceso de matrícula de una universidad utilizando Microsoft SQL Server.   La base de datos permite administrar información relacionada con:   - Facultades - Carreras - Profesores - Cursos - Estudiantes - Matrículas
+# Proyecto Final - Manejo de Bases de Datos con SQL Server
+
+## Estudiante
+Priscila María Lara Porras
+
+## DescripciónEste proyecto consiste en el diseño e implementación de una base de datos para la gestión del proceso de matrícula de una universidad utilizando Microsoft SQL Server.
+ 
+La base de datos permite administrar información relacionada con:
+ 
+- Facultades
+- Carreras
+- Profesores
+- Cursos
+- Estudiantes
+- Matrículas
+ 
+## Contenido del repositorio
+ 
+- Script SQL completo
+- Documento del proyecto
+- Modelo Entidad-Relación (MER)
+- Consultas SQL
+- Vistas (Views)
+ 
+## Tecnologías utilizadas
+ 
+- Microsoft SQL Server
+- SQL Server Management Studio (SSMS)
+ 
+## Base de datos
+ 
+db_Universidad_Occidente
